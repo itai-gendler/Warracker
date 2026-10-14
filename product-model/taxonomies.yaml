@@ -1,0 +1,10 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: An established successful outcome.
+- id: validation
+  name: Validation
+  description: A refused actor, input or setting, with nothing changed.
+- id: edge
+  name: Edge
+  description: A partial result, conflict, empty result or unavailable dependency, with its observable outcome.
